@@ -1,6 +1,4 @@
-<a align="center">
- <img src="https://i.imgur.com/WmMnSRt.png">
-</a>
+![ĐH CNTT, ĐHQG TP HCM](https://i.imgur.com/WmMnSRt.png)
 [![Generic badge](https://img.shields.io/badge/Status-working-<COLOR>.svg)](https://shields.io/)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/anhquan075/CS114.L22.KHCL/issues/new)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
