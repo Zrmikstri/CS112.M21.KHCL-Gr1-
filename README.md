@@ -1,5 +1,9 @@
-![ĐH CNTT, ĐHQG TP HCM](https://i.imgur.com/WmMnSRt.png))
-
+<!-- Banner -->
+<p align="center">
+  <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" style="border: none;">
+    <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
+  </a>
+</p>
 
 [![Generic badge](https://img.shields.io/badge/Status-working-<COLOR>.svg)](https://shields.io/)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/anhquan075/CS114.L22.KHCL/issues/new)
@@ -31,5 +35,8 @@
   * 2 bài toán minh họa (thích hợp/không thích hợp).
   * BTVN + bài quiz: Đánh giá mức độ hiểu bài
   * Contest Wecode:
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 7ff796fcf2e6322b9a273af10c7555b8f77d6a35
