@@ -1,4 +1,4 @@
-![ĐH CNTT, ĐHQG TP HCM](https://i.imgur.com/WmMnSRt.png))
+![ĐH CNTT, ĐHQG TP HCM](https://i.imgur.com/WmMnSRt.png)
 
 
 [![Generic badge](https://img.shields.io/badge/Status-working-<COLOR>.svg)](https://shields.io/)
