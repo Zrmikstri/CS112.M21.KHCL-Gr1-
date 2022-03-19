@@ -35,8 +35,4 @@
   * 2 bài toán minh họa (thích hợp/không thích hợp).
   * BTVN + bài quiz: Đánh giá mức độ hiểu bài
   * Contest Wecode:
-<<<<<<< HEAD
 
-
-=======
->>>>>>> 7ff796fcf2e6322b9a273af10c7555b8f77d6a35
