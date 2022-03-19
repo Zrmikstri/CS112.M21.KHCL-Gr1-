@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\HTML\\Python"
+		},
+		{
+			"path": "..\\Python\\Javascript"
+		},
+		{
+			"path": "..\\Năm 2\\CS112"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Javascript"
+	}
+}
