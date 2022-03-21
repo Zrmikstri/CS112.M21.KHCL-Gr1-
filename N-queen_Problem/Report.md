@@ -16,12 +16,10 @@ __Output:__ Một ma trận nhị phân, với __1__ là vị trí của quân h
 
 VD: Dưới đây là __output__ với __N = 4__.
 
-$$\begin{array}{ccc}
-0 & 1 & 0 & 0\\
-0 & 0 & 0 & 1\\
-1 & 0 & 0 & 0\\
-0 & 0 & 1 & 0
-\end{array}$$
+    0  1  0  0
+    0  0  0  1
+    1  0  0  0
+    0  0  1  0
 
 ## __Hướng giải quyết:__
 Dễ dàng thấy được, với __N = 1__, thì vấn đề khá đơn giản, nếu __N = 2__ hoặc __N = 3__ thì sẽ không tồn tại giải pháp thích hợp cho bài toán (vô nghiệm), nên ta sẽ minh họa với __N = 4__.
