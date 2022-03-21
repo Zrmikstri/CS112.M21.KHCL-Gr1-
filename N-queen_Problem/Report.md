@@ -32,7 +32,7 @@ Dễ dàng thấy được, với __N = 1__, thì vấn đề khá đơn giản,
 ```
 While (there are untried configuration)
 {
-    generate the next configuration
+   generate the next configuration
    if queens don't attack in this configuration then
    {
       print this configuration;
