@@ -1,8 +1,10 @@
 # N-queen Problem
 ## __Nêu vấn đề:__
 
-    N-queen là bài toán tìm cách đặt N quân hậu trên một bàn cờ có kích thước N x N sao cho không có 2 quân hậu nào có thể tấn công được nhau.
-
+```
+   N-queen là bài toán tìm cách đặt N quân hậu trên một bàn cờ có kích thước N x N sao cho không có 2 quân hậu nào có thể 
+   tấn công được nhau.
+```
 VD: với __N = 4__, ta sẽ có kết quả như sau:
 <p align="center">
   <a title="4-queen" style="border: none;">
