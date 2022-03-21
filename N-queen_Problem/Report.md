@@ -8,7 +8,7 @@
 VD: với __N = 4__, ta sẽ có kết quả như sau:
 <p align="center">
   <a title="4-queen" style="border: none;">
-    <img src="https://media.geeksforgeeks.org/wp-content/uploads/N_Queen_Problem.jpg" height="500", width="500">
+    <img src="https://media.geeksforgeeks.org/wp-content/uploads/N_Queen_Problem.jpg" height="80%" width="60%">
   </a>
 </p>
 
