@@ -6,7 +6,7 @@
 VD: với __N = 4__, ta sẽ có kết quả như sau:
 <p align="center">
   <a title="4-queen" style="border: none;">
-    <img src="https://media.geeksforgeeks.org/wp-content/uploads/N_Queen_Problem.jpg" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
+    <img src="https://media.geeksforgeeks.org/wp-content/uploads/N_Queen_Problem.jpg" height="500", width="500">
   </a>
 </p>
 
