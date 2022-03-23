@@ -19,8 +19,8 @@
 * __Giảng viên:__ Ths. Nguyễn Thanh Sơn - <sonnt@uit.edu.vn>
 
 # Danh sách thành viên:
-| Họ và tên      | MSSV | Lớp     |
-| :---        |    :----:   |          ---: |
+| Họ và tên      | MSSV | Lớp |
+| :---        |    :----:   |          :--- |
 | [Trần Phú Vinh](https://github.com/Zrmikstri "Vinh's github")      | 20522161       | CS112.M21.KHCL  |
 | [Đào Trần Anh Tuấn](https://github.com/daotrananhtuan09102002 "Tuấn's github")   | 20522107        | CS112.M21.KHCL      |
 | [Lê Trần Hữu Phước](https://github.com/greentealatte2105 "Phước's github") | 20521775 | CS112.M21.KHCL|
