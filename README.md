@@ -9,7 +9,7 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/anhquan075/CS114.L22.KHCL/issues/new)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/anhquan075/CS114.L22.KHCL/blob/master/LICENSE)
-![alt text](https://img.shields.io/badge/Laguage-Python-green)
+![alt text](https://img.shields.io/badge/Language-Python-green)
 
 # Giới Thiệu Môn Học:
 * __Tên môn học:__ Phân Tích Và Thiết Kế Thuật Toán
