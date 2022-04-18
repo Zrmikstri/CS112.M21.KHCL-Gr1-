@@ -34,5 +34,5 @@
   * Ưu điểm và nhược điểm.
   * 2 bài toán minh họa (thích hợp/không thích hợp).
   * BTVN + bài quiz: Đánh giá mức độ hiểu bài
-  * Contest Hackerrank: https://www.hackerrank.com/nhom1
+  * Contest Hackerrank: [link](https://www.hackerrank.com/nhom1)
 
