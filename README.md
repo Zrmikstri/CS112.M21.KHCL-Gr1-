@@ -35,4 +35,4 @@
   * 2 bài toán minh họa (thích hợp/không thích hợp).
   * BTVN + bài quiz: Đánh giá mức độ hiểu bài
   * Contest Hackerrank: [link](https://www.hackerrank.com/nhom1)
-  * Link nộp bài tập về nhà, nhóm đã để trong slide, ctrl + chuột phải tại chữ _btvn_ để mở link.
+  * Link nộp bài tập về nhà, nhóm đã để trong slide, ctrl + chuột trái tại chữ _btvn_ để mở link.
