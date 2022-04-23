@@ -28,11 +28,11 @@
 # Chủ đề Seminar
 * __Số thứ tự:__ 06
 * __Tên chủ đề:__ Phương pháp thiết kế thuật toán: Completed search - Backtracking
-* __Mục tiên:__ Sinh viên vận dụng được phương pháp thiết kế để giải bài toán cụ thể
+* __Mục tiêu:__ Sinh viên vận dụng được phương pháp thiết kế để giải bài toán cụ thể
 * __Nội dung chi tiết:__ 
   * Đặc điểm bài toán, dạng thuật toán phổ quát, (template, framework)...
   * Ưu điểm và nhược điểm.
   * 2 bài toán minh họa (thích hợp/không thích hợp).
   * BTVN + bài quiz: Đánh giá mức độ hiểu bài
-  * Contest Hackerrank: https://www.hackerrank.com/nhom1
-
+  * Contest Hackerrank: [link](https://www.hackerrank.com/nhom1)
+  * Link nộp bài tập về nhà, nhóm đã để trong slide, ctrl + chuột trái tại chữ _btvn_ để mở link.
