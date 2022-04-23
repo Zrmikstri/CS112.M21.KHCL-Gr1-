@@ -36,3 +36,6 @@
   * BTVN + bài quiz: Đánh giá mức độ hiểu bài
   * Contest Hackerrank: [link](https://www.hackerrank.com/nhom1)
   * Link nộp bài tập về nhà, nhóm đã để trong slide, ctrl + chuột trái tại chữ _btvn_ để mở link.
+  
+* Nhận xét về buổi thảo luận tại [đây](NhanXet.md).
+* Nhận xét BTVN của các nhóm tại [đây](https://github.com/Zrmikstri/CS112.M21.KHCL-Gr1-/blob/main/report_Nhom1.pdf).
