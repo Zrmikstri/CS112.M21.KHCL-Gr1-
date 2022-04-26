@@ -37,5 +37,6 @@
   * Contest Hackerrank: [link](https://www.hackerrank.com/nhom1)
   * Link nộp bài tập về nhà, nhóm đã để trong slide, ctrl + chuột trái tại chữ _btvn_ để mở link.
   
+* Kết quả bài quiz tại [đây](Class_2022_04_18__01_57_QZ_cs112.xlsx).
 * Nhận xét về buổi thảo luận tại [đây](NhanXet.md).
 * Nhận xét BTVN của các nhóm tại [đây](https://github.com/Zrmikstri/CS112.M21.KHCL-Gr1-/blob/main/report_Nhom1.pdf).
